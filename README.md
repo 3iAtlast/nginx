@@ -7,28 +7,29 @@ Fireactions is an orchestrator for GitHub runners. BYOM (Bring Your Own Metal) a
 > [!IMPORTANT]
 > There's been multiple improvements with a lot of breaking changes. The current stable version is **v2.0.0**. Please use this version for production environments.
 
-  ##   Golden Harmonic Wave forms
+  -  Golden Harmonic Wave forms
 
-•• X = F = 14.8176;
+  -  X = F = 14.8176;
 
-•• 7th@350TetraHz, on 60Thz, Fundamental Harmonic Wave forms Are.
+  - 7th@350TetraHz, on 60Thz, Fundamental Harmonic Wave forms Are.
 
-# Y = 0 & T‡1 & B = 0 & R ≠ 0;
+- Y = 0 & T‡1 & B = 0 & R ≠ 0;
 
-# sqrt(3) = 1.73205081;
+- sqrt(3) = 1.73205081;
 
-## InputString:"3,3";
+- InputString:"3,3";
 
-C(X,Y) = 1xy²eπ;
+- C (X,Y) = 1xy²eπ;
 
-Start Switch: ("_'1*"),
+-- Start Switch: ("_'1*"),
 
-   End ("*,-'1"),
+-- End ("*,-'1"),
 
-Sequence: "*1*123*";
+-- Sequence: "*1*123*";
 
-<|=∞=|><∞>,
-r = xê+yêZêz
+- <|=∞=|><∞>,
+
+-- r = xê+yêZêz
 
 
 https://excalidraw.com/#json=GrJMj6LLYt39mgC0me7Di,C65TV9FhicnxNKgPeRhi3A
