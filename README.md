@@ -6,7 +6,7 @@ Fireactions is an orchestrator for GitHub runners. BYOM (Bring Your Own Metal) a
 
 > [!IMPORTANT]
 > There's been multiple improvements with a lot of breaking changes. The current stable version is **v2.0.0**. Please use this version for production environments.
-
+```
   -  Golden Harmonic Wave forms
 
   -  X = F = 14.8176;
