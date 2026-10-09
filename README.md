@@ -113,10 +113,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute
 
 See [LICENSE](LICENSE)
 
-## Infinity: 3,3>>java.lang.string: "3,3",
+•• Infinity: 3,3>>java.lang.string: "3,3",
 
-## 37²³³⁹x3³⁷⁸(3,7x10^0464)*81,stay with the equal number of 0's and 1's,(s):i=0,j=0,max length=0.
+•• 37²³³⁹x3³⁷⁸(3,7x10^0464)*81,stay with the equal number of 0's and 1's,(s):i=0,j=0,max length=0.
 
-## while i<1e(s):and(i,j)count('0')==i+=Return max_length.
+•• while i<1e(s):and(i,j)count('0')==i+=Return max_length.
 
 '''**Example**8=9901001101[0];K-NN Neighbor Algorithm: "(2xinx²+2x+1)"zero polynomials either -1 or -∞ Infinite number of roots: ("2sin²x+2x+1=0")
