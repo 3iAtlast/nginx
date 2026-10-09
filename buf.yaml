@@ -1,5 +1,5 @@
 version: v1
-name: buf.build/hostinger/fireactions
+name: buf.build/3iAtlas/fireactions
 lint:
   use:
     - DEFAULT
